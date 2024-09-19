@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>html page</title>
+   <title>Welcome</title>
 </head>
 <body>
-	<h1>DevTools</h1>
-	<h2>GUNASHREE PURUSHOTHAM</h2>
+   <input type="text" id="Guna" placeholder="Gunashree">
+   <button onclick="greet()">Submit</button>
+
+   <script>
+      function greet() {
+         var name = document.getElementById("name").value;
+         alert("Welcome " + name + "!");
+      }
+   </script>
 </body>
 </html>
