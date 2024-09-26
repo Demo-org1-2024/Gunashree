@@ -7,5 +7,6 @@ public class SubtractTwoNumbers {
         System.out.println("The substraction of two Numbers: " + subtract);
         System.out.println("The substraction of two Numbers: " + subtract);
         byeee
+            byeee and byeee
     } 
 }
