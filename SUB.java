@@ -5,6 +5,5 @@ public class SubtractTwoNumbers {
         int subtract; 
         subtract = x - y;
         System.out.println("The substraction of two Numbers: " + subtract);
-        System.out.println("The substraction of two Numbers: " + subtract);
     } 
 }
